@@ -1,0 +1,15 @@
+# Secret keys — never commit these
+.env
+
+# ChromaDB vector database — too large for GitHub
+chroma_db/
+
+# Python virtual environment — never commit this either
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Extracted data folder
+data_folder/
