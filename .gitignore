@@ -13,3 +13,17 @@ __pycache__/
 
 # Extracted data folder
 data_folder/
+
+# Data files
+sales_data.zip
+sales_data_cleaned.csv
+USconstitution.pdf
+UScons_cleaned.txt
+UScons_in_text.txt
+
+# Debug/learning scripts
+check_db.py
+explore.py
+extract_here.py
+test_streamlit.py
+clean.py
